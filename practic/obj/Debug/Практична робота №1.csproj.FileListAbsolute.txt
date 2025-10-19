@@ -1,0 +1,11 @@
+D:\first\bin\Debug\Практична робота №1.exe.config
+D:\first\bin\Debug\Практична робота №1.exe
+D:\first\bin\Debug\Практична робота №1.pdb
+D:\first\obj\Debug\Практична робота №1.csproj.AssemblyReference.cache
+D:\first\obj\Debug\Практична_робота__1.Form1.resources
+D:\first\obj\Debug\Практична_робота__1.Properties.Resources.resources
+D:\first\obj\Debug\Практична робота №1.csproj.GenerateResource.cache
+D:\first\obj\Debug\Практична робота №1.csproj.CoreCompileInputs.cache
+D:\first\obj\Debug\Практична робота №1.exe
+D:\first\obj\Debug\Практична робота №1.pdb
+D:\first\obj\Debug\Практична робота №1.exe.config
